@@ -40,10 +40,14 @@
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Yenn-git&show_icons=true&count_private=true)   -->
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Yenn-git&theme=shadow_red&show_icons=true)
 
+### Top Languages :
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yenn-git&theme=tokyonight&show_icons=true)
+
 ### Github Streak :
 [![GitHub Streak](https://streak-stats.demolab.com?user=Yenn-git&theme=shadow-red)](https://git.io/streak-stats)
 
-### Github Trophies :
+<!-- ### Github Trophies : -->
 
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Yenn-git)](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=matrix) -->
