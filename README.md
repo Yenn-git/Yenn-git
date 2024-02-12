@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Kate
 #### I'm QA Engineer
-![I'm QA Engineer](https://github.com/Yenn-git/Yenn-git/tree/main/images)
+![I'm QA Engineer](https://github.com/Yenn-git/Yenn-git/blob/main/images/template.png)
 
 
 Skills:  JS / HTML / CSS/ Python
