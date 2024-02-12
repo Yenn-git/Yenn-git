@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Kate
 #### I am QA ENGINEER 
-![I am QA ENGINEER ](Yenn-git/images/template.png)
+![I am QA ENGINEER ](https://github.com/Yenn-git/Yenn-git/tree/main/images/template.png)
 
 I Like dogs
 
