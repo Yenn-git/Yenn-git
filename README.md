@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Kate
 #### I am QA ENGINEER 
-![I am QA ENGINEER ](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am QA ENGINEER ](Yenn-git/images/template.png)
 
 I Like dogs
 
