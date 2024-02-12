@@ -39,5 +39,6 @@
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Yenn-git)  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Yenn-git)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Yenn-git)](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=matrix)
+
 
