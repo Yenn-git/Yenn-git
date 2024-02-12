@@ -35,7 +35,7 @@
 
 ### Stats: 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yenn-git)]
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yenn-git) -->
 
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Yenn-git&show_icons=true&count_private=true)   -->
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Yenn-git&theme=shadow_red&show_icons=true)
