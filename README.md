@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Kate
+### Hi👋, My name is Cathy
 #### I am QA ENGINEER
 ![I am QA ENGINEER](https://github.com/Yenn-git/Yenn-git/blob/main/images/template.png)
 
