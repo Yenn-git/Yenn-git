@@ -1,6 +1,6 @@
 ### Hi👋, My name is Cathy
 #### I am QA ENGINEER
-![I am QA ENGINEER](https://github.com/Yenn-git/Yenn-git/blob/main/images/template.png)
+<!-- ![I am QA ENGINEER](https://github.com/Yenn-git/Yenn-git/blob/main/images/template.png) -->
 
 
 ### Skills:  JS / HTML / CSS/ Python/ SQL
