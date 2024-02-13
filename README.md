@@ -10,7 +10,7 @@
 
 ### 🛠  Testing tools that I use
 
-    - <img src='https://static-00.iconduck.com/assets.00/jira-icon-512x512-z7na7dot.png' alt='jira' height='17'> Jira, <img src='https://pbs.twimg.com/profile_images/1639395011866361857/Cd6Ji_08_400x400.jpg' alt='testrail' height='17'> Testrail
+- <img src='https://static-00.iconduck.com/assets.00/jira-icon-512x512-z7na7dot.png' alt='jira' height='17'> Jira, <img src='https://pbs.twimg.com/profile_images/1639395011866361857/Cd6Ji_08_400x400.jpg' alt='testrail' height='17'> Testrail
     - <img src='https://yt3.googleusercontent.com/iD0oePTGV8tZwEEP_WEG2rvyNiQAVfmjhawFMCj17ARjjmw-J70k9NDjSE5QTzD9Vk3ayBU=s900-c-k-c0x00ffffff-no-rj' alt='cypress' height='17'> Cypress
     -  <img src='https://cdn.icon-icons.com/icons2/3053/PNG/512/microsoft_visual_studio_code_macos_bigsur_icon_189957.png' alt='VCSode' height='17'> Visual Studio Code,  <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1024px-IntelliJ_IDEA_Icon.svg.png' alt='intellij' height='17'> IntelliJ IDEA
     - <img src='https://www.svgrepo.com/show/354202/postman-icon.svg' alt='postman' height='17'> Postman
@@ -34,7 +34,7 @@
 
 ### Social
 
-    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Yenn-git)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/katarzyna-g%C3%B3recka-janiszewska-2688b9173//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/media/set/?set=a.136664339699972&type=3)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/postman.svg' alt='postman' height='40'>](https://api.badgr.io/public/assertions/sXzkEuGRQVST_hEUenRbdg?identity__email=katarzyna.gorecka.j.qatester%40gmail.com)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg' alt='hackerrank' height='40'>](https://www.hackerrank.com/dashboard)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Yenn-git)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/katarzyna-g%C3%B3recka-janiszewska-2688b9173//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/media/set/?set=a.136664339699972&type=3)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/postman.svg' alt='postman' height='40'>](https://api.badgr.io/public/assertions/sXzkEuGRQVST_hEUenRbdg?identity__email=katarzyna.gorecka.j.qatester%40gmail.com)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg' alt='hackerrank' height='40'>](https://www.hackerrank.com/dashboard)  
 
 ### Stats
 
