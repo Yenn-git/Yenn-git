@@ -1,6 +1,6 @@
 ### Hi👋
 
-### My name is Cathy
+### My name is Kasia
 
 #### I am QA ENGINEER
 <!-- ![I am QA ENGINEER](https://github.com/Yenn-git/Yenn-git/blob/main/images/template.png) -->
